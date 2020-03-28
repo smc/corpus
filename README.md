@@ -27,6 +27,12 @@ Contributing
 
 Make sure to respect the copyright of the content. We are trying to provide a corpus of free licensed content.
 
+Other sources
+-------------
+
+1. Malayalam content from Common Crawl dataset- https://github.com/qburst/common-crawl-malayalam 
+
+
 License
 -------
 
